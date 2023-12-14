@@ -13,6 +13,12 @@ public class Application2 {
          * 둘레 : 97.8
          *  */
 
+        double dnum1 = 12.5;
+        double dnum2 = 36.4;
+
+        System.out.println("면적 : " + (dnum1 * dnum2));
+        System.out.println("둘레 : " + ((dnum1 + dnum2) * 2));
+
     }
 
 }

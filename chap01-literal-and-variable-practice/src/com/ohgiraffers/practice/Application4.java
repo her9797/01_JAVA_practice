@@ -12,6 +12,16 @@ public class Application4 {
          * 평균 : 67
          *  */
 
+        double k = 80.5;
+
+        double m = 50.6;
+
+        double e = 70.8;
+
+        System.out.println("총점 : " + ((long)(k + m + e)));
+        System.out.println("평균 : " + (long)((k + m + e)/3));
+
+
     }
 
 }
